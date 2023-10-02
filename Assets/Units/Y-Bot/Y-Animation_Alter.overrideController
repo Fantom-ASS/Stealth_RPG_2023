@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Y-Animation_Alter
+  m_Controller: {fileID: 9100000, guid: 7bda1a253d210424aa4bc032d2015d69, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: b99b6e222735bdd42946682c362dd568,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 9b6d63867de87924f8a094fa8b51385a,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: fd3adcd11df72da449c89367e8f64793,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 71e63c49114f6044f80748a1ef22996b,
+      type: 3}
